@@ -1,10 +1,10 @@
-#Automated UI Tests with Cypress on Sauce Demo
+# Automated UI Tests with Cypress on Sauce Demo
 
-##What is it?
+## What is it?
 
 This repository was created for the Automated UI Testing Bootcamp.
 
-##Technologies Used
+## Technologies Used
 
 Cypress
 
